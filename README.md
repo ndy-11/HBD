@@ -31,7 +31,3 @@ npm install
 npm run server-node
 ```
 visit http://localhost:8081 in your browser.
-
-# HBD
-# ndy-11.github.io
-# ndy-11.github.io
